@@ -31,7 +31,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 ### Li Lehao
 
-<img src="images/LiLehao.png" width="200px">
+<img src="images/li-lehao.png" width="200px">
 
 [[github](https://github.com/Li-Lehao)] [[portfolio](team/johndoe.md)]
 
@@ -50,7 +50,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 ### Teng Chiong
 
-<img src="images/tengchiong.jpg" width="200px">
+<img src="images/tchiong.png" width="200px">
 
 [[github](http://github.com/tchiong)]
 [[portfolio](team/johndoe.md)]

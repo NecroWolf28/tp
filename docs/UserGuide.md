@@ -3,7 +3,7 @@ layout: page
 title: User Guide
 ---
 
-AddressBook Level 3 (AB3) is a **desktop app for managing contacts, optimized for use via a Command Line Interface** (CLI) while still having the benefits of a Graphical User Interface (GUI). If you can type fast, AB3 can get your contact management tasks done faster than traditional GUI apps.
+**PlaceBook (PB) is a desktop app for managing contacts and appointments, optimized for use via a Command Line Interface (CLI) while still having the benefits of a Graphical User Interface (GUI).** If you can type fast, PB can get your contact management tasks done faster than traditional GUI apps.
 
 * Table of Contents
 {:toc}
@@ -166,11 +166,28 @@ Examples:
 * `editApp 2 n/John Doe d/21-12-2021 t/1500 ds/dicuss marketing strategies`
   edits the time of the above created appointment with John Doe to 21-12-2021 at 1500 hrs
 
+### Deleting an appointment: `delApp`
+
+* Deletes an appointment at the specified `INDEX`
+* The index refers to the index number shown in the displayed person list.
+* The index **must be a positive integer** 1, 2, 3, …​
+
+Format: delApp INDEX
+
+Examples:
+* `delApp 1`
+
 ### Clearing all entries : `clear`
 
 Clears all entries from the address book.
 
 Format: `clear`
+
+### Listing all appointments : `listapp`  `[coming soon]`
+
+Show all the appointments in the appointment list currently.
+
+Format: `listapp`
 
 ### Exiting the program : `exit`
 
